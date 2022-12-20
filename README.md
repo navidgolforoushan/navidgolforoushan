@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @navidgolforoushan
+- 👀 I’m interested in new thechnologies, best-practcies and software acrhitecture, and finding solution for business problems
+- 🌱 I’m currently learning GrapQL .Net Server Development
+- 📫 How to reach me ... best way to reach me is my email address.
